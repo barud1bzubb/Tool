@@ -1,0 +1,7 @@
+from rich.panel import Panel as Ch
+
+from rich import print as code
+
+code(Ch(                           Aegos          )) 
+
+#خلي بمكان Aegos اي شي تريده ينطبع
