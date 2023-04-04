@@ -1,0 +1,5 @@
+from rich.panel import Panel as Ch
+
+from rich import print as code
+
+code(Ch(                           barud       ))
